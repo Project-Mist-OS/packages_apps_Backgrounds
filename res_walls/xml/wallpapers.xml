@@ -671,4 +671,23 @@
             src="@drawable/community_wallpaper6"
             title="@string/community_wallpaper6_title" />
     </category>
+    
+    <category id="cmf_wallpapers" title="@string/cmf_wallpapers">
+        <static-wallpaper
+            id="cmf_wallpaper1"
+            src="@drawable/cmf_wall_1"
+            title="@string/cmf_wallpaper1_title" />
+        <static-wallpaper
+            id="cmf_wallpaper2"
+            src="@drawable/cmf_wall_2"
+            title="@string/cmf_wallpaper2_title" />
+        <static-wallpaper
+            id="cmf_wallpaper3"
+            src="@drawable/cmf_wall_3"
+            title="@string/cmf_wallpaper3_title" />
+        <static-wallaper
+            id="cmf_wallpaper4"
+            src="@drawable/cmf_wall_4"
+            title="@string/cmf_wallpaper4_title" />
+    </category>
 </resources>

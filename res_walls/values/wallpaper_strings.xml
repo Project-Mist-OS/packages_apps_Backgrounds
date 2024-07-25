@@ -245,4 +245,10 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="community_wallpaper5_title">Community Wallpaper 5</string>
     <string name="community_wallpaper6_title">Community Wallpaper 6</string>
 
+    <!-- CMF Walls -->
+    <string name="cmf_wallpapers">CMF by Nothing Wallpapers</string>
+    <string name="cmf_wallpaper1_title">CMF 1</string>
+    <string name="cmf_wallpaper2_title">CMF 2</string>
+    <string name="cmf_wallpaper3_title">CMF 3</string>
+    <string name="cmf_wallpaper4_title">CMF 4</string>
 </resources>
