@@ -690,4 +690,28 @@
             src="@drawable/cmf_wall_4"
             title="@string/cmf_wallpaper4_title" />
     </category>
+    
+    <category id="kailash_walls" title="@string/kailash_walls">
+        <static-wallpaper
+            id="kailash_wall_1"
+            src="@drawable/kailash_1"
+            title="@string/kailash_wall_1_title"
+            subtitle1="@string/kailash_rising_subtitle"
+            subtitle2="@string/kailash_rising_attribution"
+             />
+        <static-wallpaper
+            id="kailash_wall_2"
+            src="@drawable/kailash_2"
+            title="@string/kailash_wall_2_title"
+            subtitle1="@string/kailash_rising_subtitle"
+            subtitle2="@string/kailash_rising_attribution"
+             />
+        <static-wallpaper
+            id="kailash_wall_3"
+            src="@drawable/kailash_3"
+            title="@string/kailash_wall_3_title"
+            subtitle1="@string/kailash_rising_subtitle"
+            subtitle2="@string/kailash_rising_attribution"
+             />
+    </category>
 </resources>

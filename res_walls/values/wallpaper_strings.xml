@@ -251,4 +251,12 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="cmf_wallpaper2_title">CMF 2</string>
     <string name="cmf_wallpaper3_title">CMF 3</string>
     <string name="cmf_wallpaper4_title">CMF 4</string>
+    
+    <!-- Kailash -->
+    <string name="kailash_walls">RisingOS 4.0 Wallpapers</string>
+    <string name="kailash_wall_1_title">Kailash 1</string>
+    <string name="kailash_wall_2_title">Kailash 2</string>
+    <string name="kailash_wall_3_title">Kailash 3</string>
+    <string name="kailash_rising_subtitle">Kailash Edition Wallpapers</string>
+    <string name="kailash_rising_attribution">Created by Not Ayan</string>
 </resources>
