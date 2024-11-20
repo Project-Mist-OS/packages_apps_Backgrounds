@@ -714,4 +714,28 @@
             subtitle2="@string/kailash_rising_attribution"
              />
     </category>
+    
+    <category id="rising_x_wukong" title="@string/rising_x_wukong">
+        <static-wallpaper
+            id="rising_x_wukong_ascend"
+            src="@drawable/rising_x_wukong_ascend"
+            title="@string/rising_x_wukong_ascend_title"
+            subtitle1="@string/rising_x_wukong_subtitle"
+            subtitle2="@string/rising_x_wukong_attribution"
+             />
+        <static-wallpaper
+            id="rising_x_wukong_v1"
+            src="@drawable/rising_x_wukong_v1"
+            title="@string/rising_x_wukong_v1_title"
+            subtitle1="@string/rising_x_wukong_subtitle"
+            subtitle2="@string/rising_x_wukong_attribution"
+             />
+        <static-wallpaper
+            id="rising_x_wukong_v2"
+            src="@drawable/rising_x_wukong_v2"
+            title="@string/rising_x_wukong_v2_title"
+            subtitle1="@string/rising_x_wukong_subtitle"
+            subtitle2="@string/rising_x_wukong_attribution"
+             />
+    </category>
 </resources>

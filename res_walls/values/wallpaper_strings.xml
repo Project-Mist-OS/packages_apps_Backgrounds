@@ -259,4 +259,12 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="kailash_wall_3_title">Kailash 3</string>
     <string name="kailash_rising_subtitle">Kailash Edition Wallpapers</string>
     <string name="kailash_rising_attribution">Created by Not Ayan</string>
+    
+    <!-- Rising X Wukong -->
+    <string name="rising_x_wukong">RisingOS X Wukong Wallpapers</string>
+    <string name="rising_x_wukong_ascend_title">Ascend</string>
+    <string name="rising_x_wukong_v1_title">Rising X Wukong v1</string>
+    <string name="rising_x_wukong_v2_title">Rising X Wukong v2</string>
+    <string name="rising_x_wukong_subtitle">Rising X Wukong Edition Wallpapers</string>
+    <string name="rising_x_wukong_attribution">Created by Not Ayan</string>
 </resources>
