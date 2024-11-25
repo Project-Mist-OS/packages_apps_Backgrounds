@@ -738,4 +738,43 @@
             subtitle2="@string/rising_x_wukong_attribution"
              />
     </category>
+    
+    <category id="n2ap_community_edition" title="@string/n2ap_community_edition_title">
+        <static-wallpaper
+            id="n2ap_wall1"
+            src="@drawable/n2ap_wall1"
+            title="@string/n2ap_community_edition_wp_title"
+            subtitle2="@string/n2ap_community_edition_attribution"
+             />
+        <static-wallpaper
+            id="n2ap_wall2"
+            src="@drawable/n2ap_wall2"
+            title="@string/n2ap_community_edition_wp_title"
+            subtitle2="@string/n2ap_community_edition_attribution"
+             />
+        <static-wallpaper
+            id="n2ap_wall3"
+            src="@drawable/n2ap_wall3"
+            title="@string/n2ap_community_edition_wp_title"
+            subtitle2="@string/n2ap_community_edition_attribution"
+             />
+        <static-wallpaper
+            id="n2ap_wall4"
+            src="@drawable/n2ap_wall4"
+            title="@string/n2ap_community_edition_wp_title"
+            subtitle2="@string/n2ap_community_edition_attribution"
+             />
+        <static-wallpaper
+            id="n2ap_wall5"
+            src="@drawable/n2ap_wall5"
+            title="@string/n2ap_community_edition_wp_title"
+            subtitle2="@string/n2ap_community_edition_attribution"
+             />
+        <static-wallpaper
+            id="n2ap_wall6"
+            src="@drawable/n2ap_wall6"
+            title="@string/n2ap_community_edition_wp_title"
+            subtitle2="@string/n2ap_community_edition_attribution"
+             />
+    </category>
 </resources>

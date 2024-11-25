@@ -267,4 +267,9 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="rising_x_wukong_v2_title">Rising X Wukong v2</string>
     <string name="rising_x_wukong_subtitle">Rising X Wukong Edition Wallpapers</string>
     <string name="rising_x_wukong_attribution">Created by Not Ayan</string>
+    
+    <!-- Nothing 2a Plus Community edition -->
+    <string name="n2ap_community_edition_title">Nothing 2a Plus Community edition</string>
+    <string name="n2ap_community_edition_wp_title">Nothing 2a Plus community wallpaper</string>
+    <string name="n2ap_community_edition_attribution">by Nothing Tech</string>
 </resources>
